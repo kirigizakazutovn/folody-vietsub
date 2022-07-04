@@ -1,6 +1,6 @@
 exports.leave = {
   name: 'leave',
-  description: 'Leave command',
+  description: 'Rời kênh thoại bot đang ở hiện tại',
   type: 'CHAT_INPUT',
   func_status: false,
   func: [
