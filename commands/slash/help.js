@@ -2,7 +2,7 @@ const {MessageEmbed} = require('discord.js');
 
 exports.help = {
   name: 'help',
-  description: 'Help command',
+  description: 'Cần trợ giúp?Gọi ngay!',
   type: 'CHAT_INPUT',
   func_status: false,
   func: [
